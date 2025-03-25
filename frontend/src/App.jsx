@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
+import TaskList from "./components/TaskList";
 
 export const App = () => {
   return (
-    <div>This is our react project.</div>
-  )
-}
+    <div>
+      <TaskList />
+    </div>
+  );
+};
