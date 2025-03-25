@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const apiURI = "http://localhost:3000/api/task/";
+const apiURI = "http://localhost:3000/tasks/";
 
 const TaskList = () => {
   const [tasks, setTasks] = useState([]);
