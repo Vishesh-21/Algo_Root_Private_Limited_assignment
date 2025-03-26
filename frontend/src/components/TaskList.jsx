@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const apiURI = "http://localhost:3000/tasks/";
+const apiURI =
+  "https://algo-root-private-limited-assignment.onrender.com/tasks";
 
 const TaskList = () => {
   const [tasks, setTasks] = useState([]);
