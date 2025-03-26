@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 
 const apiURI =
-  "https://algo-root-private-limited-assignment.onrender.com/tasks";
+  "https://algo-root-private-limited-assignment.onrender.com/tasks/";
 
 const TaskList = () => {
   const [tasks, setTasks] = useState([]);
