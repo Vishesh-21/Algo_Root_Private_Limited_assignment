@@ -21,20 +21,18 @@ Edit a task
 Delete a task
 Mark a task as completed
 
+## Live Demo
+
+🔗 **[Live Demo](https://algo-root-private-limited-assignment-zfjj.vercel.app/)**  
+
 ## Installation and Setup
 
-Clone the repository: https://github.com/Vishesh-21/Algo_Root_Private_Limited_assignment
-
-Install dependencies: npm install
-
-Start the backend server : npm start
-
-Start the frontend : npm run dev
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Vishesh-21/Algo_Root_Private_Limited_assignment
+   cd Algo_Root_Private_Limited_assignment
+   ```
 
 ## Screenshots
+
 ![Task Management UI](screenshot/ui_SS.png)
-
-
-
-
-
